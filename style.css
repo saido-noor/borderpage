@@ -1,5 +1,5 @@
 /*padding goes to clockwise top right bottom left */
-nav ul h1{ 
+nav .div1 h1{ 
 text-decoration: none;
 margin: 10%;
 border: dotted 10px black;
@@ -8,17 +8,17 @@ padding: 10% 7% 10% 10%;
 list-style: none;
 }
 
-nav ul li ul li{
+nav .div2{
    border: solid 10px rgb(57, 128, 54);
    text-align: center;
    margin: 15% 15% 15% 10%;
    list-style: none;
 
 }
-nav ul li ul li ul li{
+nav .div3{
    border: dashed 10px rgb(114, 37, 34);
    text-align: center;
-   margin: 20% 7% 20% 15%;
+   margin: 10% 7% 10% 7%;
    list-style: none;
    
 }
